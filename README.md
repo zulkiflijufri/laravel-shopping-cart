@@ -2,7 +2,7 @@
 ## Screenshot
 ### Page Cart
 
-![Page Cart](/public/assets/images/cart.png)
+<!-- ![Page Cart](/public/assets/images/cart.png) -->
 
 ### Modal Coupon
 
