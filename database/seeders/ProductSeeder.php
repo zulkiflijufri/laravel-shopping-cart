@@ -25,7 +25,7 @@ class ProductSeeder extends Seeder
             'code' => 'FA3518',
             'name' => 'Enchanting Belle',
             'image' => 'https://cdn.istyle.im/images/product/web/79/65/42/00/0/000000426579_01_800.JPG.webp',
-            'price' => 336000
+            'price' => 366000
         ]);
     }
 }
