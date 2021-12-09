@@ -1,0 +1,92 @@
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
+p {
+  margin: 0;
+}
+
+thead {
+    font-size: 14px;
+}
+
+select {
+    border: 0;
+}
+
+.cart__title {
+    font-weight: 300;
+}
+
+.product__name{
+    font-weight: 500;
+    color: cornflowerblue;
+}
+.product__code {
+    color: gray;
+    font-size: 13px;
+}
+.product__price, .cart__subtotal {
+    font-size: 14px;
+}
+
+
+.coupon, .total {
+    margin-right: 15%;
+}
+.coupon__link, .coupon__link:hover{
+    color: green;
+    font-size: 12px;
+}
+
+.total__title, .total__price {
+    font-size: 13px;
+    font-weight: bold;
+}
+
+.total__title {
+    margin-right: 15%;
+}
+
+a, a:hover {
+    color: gray;
+    font-weight: bold;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+.modal-title-discount {
+    font-size: 14px;
+    margin-right: 8px;
+    font-weight: bold;
+}
+.modal-title-reward {
+    font-size: 14px;
+    color: gainsboro;
+}
+.modal-header, .modal-body {
+     border: 0;
+}
+
+.discount__code{
+    width: 80%;
+    padding: 10px;
+    border-radius: 2px;
+    text-transform: uppercase;
+    border: 1px solid green;
+}
+
+.discount__btn {
+    border: 0;
+    width: 20%;
+    display: flex;
+    color: white;
+    cursor: pointer;
+    font-size: 12px;
+    border-radius: 2px;
+    align-items: center;
+    justify-content: center;
+    background-color: orange;
+}
